@@ -107,5 +107,7 @@ DELAY 500
 ENTER
 
 STRINGLN Expand-Archive C:\a.zip -DestinationPath C:\a
+REM I need to think of a better way to unzip desktop goose
 
+GUI r
 STRINGLN https://bigrat.monster
