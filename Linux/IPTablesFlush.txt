@@ -1,0 +1,3 @@
+REM This has not been tested. Use at your own risk
+
+iptables -F

